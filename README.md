@@ -2,6 +2,8 @@
 created by Marco Mata with incredible amounts of help from Frank's Laboratory.
 Here is his twitter: https://twitter.com/code_laboratory
 
+![image](https://user-images.githubusercontent.com/101440634/219961427-cb98fbb6-cb87-4828-b381-37c1455e1267.png)
+
 ## Table of Contents
 1. [Description](#description)
 2. [Built-with](#built-with)
@@ -19,7 +21,7 @@ This application was built using HTML, CSS, & JavaScript.
 Feel free to contact me if you would like to add to The Raven Game.
 
 ## Usage
-Live website:
+Live website: https://itsmarcotime.github.io/The-Raven-Game/
 
 ## Questions
 Questions? <br /> 
